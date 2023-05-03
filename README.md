@@ -1,3 +1,3 @@
 # git_test
-My First Gihub repos=!
+My First Gihub repos!
 Hello Odin!
